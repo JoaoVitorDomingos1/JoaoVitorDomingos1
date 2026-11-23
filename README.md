@@ -1,56 +1,32 @@
 
-# Olá! Eu sou João Vitor Domingos 👋
+# João Vitor Domingos
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Em formação na área de Desenvolvimento de Software  
-🌎 Inglês fluente  
-🚀 Interessado em tecnologia, inteligência artificial e desenvolvimento de soluções
+Estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo meus conhecimentos em programação e desenvolvimento de software.
 
-## 👨‍💻 Sobre mim
+Tenho interesse em desenvolvimento web, backend e inteligência artificial aplicada à criação de soluções.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, construindo minha trajetória na área de tecnologia.
+Neste perfil compartilho projetos práticos, estudos e aplicações desenvolvidas ao longo da minha formação.
 
-Tenho interesse em desenvolvimento de software, resolução de problemas e aplicação de inteligência artificial na criação de soluções.
-
-Utilizo este espaço para compartilhar meus projetos, estudos e minha evolução prática como desenvolvedor.
-
-## 🛠️ Tecnologias e ferramentas
-
-Tecnologias e ferramentas com as quais estou desenvolvendo meus conhecimentos:
+## Tecnologias e ferramentas
 
 - JavaScript
-- HTML5 e CSS3
+- HTML e CSS
 - Git e GitHub
 - Visual Studio Code
-- Ferramentas de inteligência artificial aplicadas ao desenvolvimento
 
-## 📂 Meus projetos
+## Projetos
 
-Aqui você encontrará projetos desenvolvidos durante minha formação, incluindo aplicações web, exercícios práticos e soluções para problemas reais.
+### Gerador de Assinaturas Agro
 
-### 🔹 Gerador de Assinaturas de E-mail
+Aplicação web para geração de assinaturas de e-mail personalizadas, desenvolvida com HTML, CSS e JavaScript.
 
-Aplicação web para criação de assinaturas de e-mail personalizadas a partir de informações fornecidas pelo usuário.
+O projeto utiliza manipulação do DOM, eventos e Canvas API para gerar assinaturas em formato PNG.
 
-**Tecnologias utilizadas:** HTML, CSS e JavaScript.
+## Formação
 
-**Funcionalidades:**
-- Formulário para preenchimento de dados profissionais
-- Seleção dinâmica de unidades
-- Geração de assinatura personalizada
-- Exportação da assinatura em imagem
+Análise e Desenvolvimento de Sistemas — Uni Goiás
 
-## 🎯 Objetivos
+## Idiomas
 
-- Aprimorar continuamente meus conhecimentos em desenvolvimento de software
-- Desenvolver projetos práticos e soluções funcionais
-- Explorar o uso de inteligência artificial no desenvolvimento
-- Construir uma carreira sólida na área de tecnologia
-
-## 📫 Contato
-
-Você pode acompanhar meus projetos aqui no GitHub e conhecer mais sobre minha trajetória profissional pelo LinkedIn.
-
----
-
-⭐ Sempre aprendendo, praticando e evoluindo.
+- Português — Nativo
+- Inglês — Fluente
